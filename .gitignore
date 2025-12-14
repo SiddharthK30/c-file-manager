@@ -1,0 +1,9 @@
+# Ignore executable files
+*.exe
+
+# Ignore object files
+*.o
+
+# Ignore reserved temporary and log files
+temp.txt
+change_log.txt
